@@ -30,8 +30,8 @@ Scenario:
 4. Click on the “Stays” Tab on top panel.
 5. Type Any location in “Where are you going” text field. (E.g.: - Kandy)
 6. Select the Check-in and Checkout (Should be further day from the currently system date
-and different between to dates should be 2 days) 7. Select 1 adults and 0 children and 1
-room and verify it.
+and different between to dates should be 2 days)
+7. Select 1 adults and 0 children and 1 room and verify it.
 8. Click on the Search button.
 9. Verify the Search Location is correct.
 10. Select the Property rating.
