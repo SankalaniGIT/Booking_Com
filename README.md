@@ -1,4 +1,4 @@
-# Booking-com-Test-Automation
+# Booking-com-Test-Automation-Project
 > This is a test automation task on [__Booking.com__](https://www.booking.com/) website (Reservation).
 
 ## Installation
